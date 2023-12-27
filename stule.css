@@ -78,6 +78,17 @@ html {
 .container-calculator__item_color-grey:active {
    background-color: white;
 }
+.container-calculator__item_color-darkgrey {
+   background-color: rgb(46, 45, 45);
+   transition: .3s;
+}
+.container-calculator__item_color-darkgrey:hover {
+   background-color: gray;
+ 
+}
+.container-calculator__item_color-darkgrey:active {
+   background-color: rgb(109, 108, 108);
+}
 
  
   
